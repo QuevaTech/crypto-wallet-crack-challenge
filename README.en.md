@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/banner.png" alt="QuevaTech — The Crypto Wallet Crack Challenge" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/badge-candidates.svg" alt="2^47 candidates">
+  <img src="assets/badge-known-words.svg" alt="19 of 24 words known">
+  <img src="assets/badge-nist.svg" alt="NIST SP 800-90B 15/15 PASS">
+  <img src="assets/badge-prize.svg" alt="prize 1 USD">
+</p>
+
 # QuevaTech BIP39 Challenge — 2001 phrases, 19/24 words public
 
 This repository contains **2001 valid 24-word BIP39 mnemonics** generated from our hardware

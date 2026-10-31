@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="24" role="img" aria-label="prize: 1 USD">
+  <rect width="96" height="24" rx="3" fill="#16141a"/>
+  <rect x="0.5" y="0.5" width="95" height="23" rx="3" fill="none" stroke="#2a2730"/>
+  <text x="9" y="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10"
+        letter-spacing="0.10em" fill="#8d867a">PRIZE</text>
+  <text x="48" y="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10"
+        letter-spacing="0.06em" fill="#c8a63f">1 USD</text>
+</svg>
