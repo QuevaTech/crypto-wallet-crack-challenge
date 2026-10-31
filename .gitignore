@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+# NEVER commit the target phrase or any private key material
+phrase_1001_private.json
+*_private.json
+.env
+.ruff_cache/
